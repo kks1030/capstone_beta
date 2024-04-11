@@ -83,7 +83,7 @@ withDefaults(
           },
           {
             name: 'projects',
-            to: 'projects',
+            to: 'project-management',
             icon: 'mso-favorite',
           },
         ],
